@@ -1,0 +1,55 @@
+{
+ "bins": [
+  "0\u201320\u00b0",
+  "20\u201340\u00b0",
+  "40\u201355\u00b0",
+  "55\u201365\u00b0",
+  "65\u201375\u00b0",
+  "75\u201390\u00b0"
+ ],
+ "n": [
+  1373,
+  5777,
+  4330,
+  2873,
+  3784,
+  1249
+ ],
+ "angular_median": [
+  0.478,
+  0.413,
+  0.311,
+  0.422,
+  0.451,
+  0.461
+ ],
+ "rectified_median": [
+  0.503,
+  0.514,
+  0.504,
+  0.995,
+  1.69,
+  4.049
+ ],
+ "angular_p90": [
+  1.894,
+  1.594,
+  1.559,
+  2.029,
+  1.676,
+  1.796
+ ],
+ "rectified_p90": [
+  2.024,
+  2.05,
+  2.827,
+  6.008,
+  8.64,
+  23.036
+ ],
+ "opencv_roundtrip_first_angle_err_gt_0p1deg": 74.0,
+ "opencv_roundtrip_err_at_80": 4.45,
+ "opencv_roundtrip_err_at_85": 8.04,
+ "own_max_err": 2.842170943040401e-14,
+ "note": "Same 19,386 matches; angular epipolar error vs rectified vertical residual by field angle of the left-image point; OpenCV fisheye round-trip test (OpenCV 5.0, default settings)."
+}

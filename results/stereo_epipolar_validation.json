@@ -1,0 +1,57 @@
+{
+ "calibration": "Kalibr pinhole-equidistant stereo calibration, solved at 800x600 (exact 0.5x of the 1600x1200 capture mode); parameters not published",
+ "scale": 2.0,
+ "px_per_deg_at_centre": 8.419,
+ "pairs_sampled": 29,
+ "angular_epipolar_error_all": {
+  "n": 19386,
+  "median_px": 0.408,
+  "p75_px": 0.798,
+  "p90_px": 1.685
+ },
+ "by_field_angle": {
+  "0-30deg": {
+   "n": 4026,
+   "median_px": 0.453,
+   "p75_px": 0.827,
+   "p90_px": 1.664
+  },
+  "30-50deg": {
+   "n": 6061,
+   "median_px": 0.334,
+   "p75_px": 0.676,
+   "p90_px": 1.546
+  },
+  "50-70deg": {
+   "n": 5943,
+   "median_px": 0.425,
+   "p75_px": 0.778,
+   "p90_px": 1.899
+  },
+  "70-100deg": {
+   "n": 3356,
+   "median_px": 0.435,
+   "p75_px": 1.065,
+   "p90_px": 1.699
+  }
+ },
+ "grid_3x3_median_px": {
+  "row0_col0": 0.353,
+  "row0_col1": 0.448,
+  "row0_col2": 1.163,
+  "row1_col0": 0.548,
+  "row1_col1": 0.444,
+  "row1_col2": 0.318,
+  "row2_col0": 1.17,
+  "row2_col1": 0.568,
+  "row2_col2": 0.331
+ },
+ "heldout_median_px_before": 0.399,
+ "heldout_median_px_after_3dof_fit": 0.374,
+ "fitted_stereo_rotation_correction_deg": [
+  -0.0109,
+  -0.0077,
+  -0.0062
+ ],
+ "interpretation": "Unfiltered matches (no RANSAC). Median near the matching noise floor (~0.3-0.6 px) and a fitted correction of a few hundredths of a degree indicate the calibration fits this device and sensor mode. Baseline length / metric depth are NOT tested."
+}

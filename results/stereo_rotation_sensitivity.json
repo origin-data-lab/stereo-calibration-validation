@@ -1,0 +1,20 @@
+{
+ "fitted_correction_deg": [
+  -0.011,
+  -0.008,
+  -0.006
+ ],
+ "heldout_median_px_after_fit": 0.374,
+ "sensitivity_heldout_median_px": {
+  "x(pitch)_0.1deg": 0.759,
+  "x(pitch)_0.2deg": 1.346,
+  "x(pitch)_0.5deg": 3.337,
+  "y(yaw)_0.1deg": 0.547,
+  "y(yaw)_0.2deg": 0.663,
+  "y(yaw)_0.5deg": 1.176,
+  "z(roll)_0.1deg": 0.641,
+  "z(roll)_0.2deg": 0.988,
+  "z(roll)_0.5deg": 2.224
+ },
+ "heldout_median_px_as_supplied": 0.399
+}
