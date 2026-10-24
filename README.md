@@ -81,7 +81,7 @@ https://origindatalab.io/technical-field-notes/stereo-calibration-check.html
 
 - [All Technical Field Notes](https://origindatalab.io/technical-field-notes/)
 - [한국어 — 스테레오 캘리브레이션 검증 (Field Note #04)](https://origindatalab.io/ko/technical-field-notes/stereo-calibration-check.html)
-- [#03 Stereo + IMU Egocentric Capture](https://origindatalab.io/technical-field-notes/stereo-imu-egocentric-sample.html) · [repository](https://github.com/origin-data-lab/stereo-imu-egocentric-capture)
+- [#03 Stereo + IMU Egocentric Capture](https://origindatalab.io/technical-field-notes/stereo-imu-egocentric-sample.html) · [repository](https://github.com/origin-data-lab/stereo-imu-egocentric-evaluation)
 
 ---
 
